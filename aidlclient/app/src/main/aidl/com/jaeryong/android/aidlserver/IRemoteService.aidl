@@ -1,5 +1,5 @@
 // IRemoteService.aidl
-package com.jaeryong.android.aidlclient;
+package com.jaeryong.android.aidlserver;
 
 // Declare any non-default types here with import statements
 

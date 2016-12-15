@@ -6,8 +6,6 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.support.annotation.Nullable;
 
-import com.jaeryong.android.aidlclient.IRemoteService;
-
 public class ServerService extends Service {
 
     @Nullable

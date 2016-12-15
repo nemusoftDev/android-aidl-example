@@ -13,6 +13,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.jaeryong.android.aidlserver.IRemoteService;
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String SERVER_PACKAGE = "com.jaeryong.android.aidlserver";
